@@ -4,9 +4,8 @@
 
 ## Meta
 
-Zeroday Contact – [@ZerodaysForLols](https://twitter.com/ZerodaysForLols)
+[Message Us](https://t.me/ZerodaysForLols)
 
-For removals please contact contact-zd@riseup.net
 
 ## Knowledge on our project
 
