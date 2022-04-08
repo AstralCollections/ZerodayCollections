@@ -1,4 +1,4 @@
-# @ZerodayCollections
+# @AstralCollections
 
 > Head developer and manager of Zeroday Database Collections
 
