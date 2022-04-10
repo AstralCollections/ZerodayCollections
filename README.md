@@ -8,7 +8,7 @@
 
 ## Knowledge on our project
 
-Zeroday presently contains 8.9 billion raw database entries and it is still expanding. 
+Astral presently contains 8.9 billion raw database entries and it is still expanding. 
 
 We offer a free service and a premium plan for API accessibility and more;
 
